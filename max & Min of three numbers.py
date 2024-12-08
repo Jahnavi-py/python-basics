@@ -1,0 +1,7 @@
+num1 = int(input("Enter the Number1:"))
+num2 = int(input("Enter the Number2:"))
+num3 = int(input("Enter the Number3:"))
+max_num = max(num1, num2,num3)
+min_num = min(num1, num2, num3)
+print("The Maxmium number is", max_num)
+print("The Minimum number is", min_num)

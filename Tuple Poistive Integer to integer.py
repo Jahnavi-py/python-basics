@@ -1,0 +1,6 @@
+tuple = (1,2,3)
+integer = '' .join(str(i) for i in tuple)
+print("Tuple poistive integer to integer is : ", integer)
+tuple2 = (10,20,40,5,70)
+integer2 = '' .join(str(j) for j in tuple2)
+print("Tuple poistive integer to integer is : ", integer2)
