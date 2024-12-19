@@ -7,8 +7,8 @@ def check_number_type(num):
     else:
         return "Not a number"
 number = 10
-print(check_number_type(number))
+print(f"the given number {number} is {check_number_type(number)}")
 number = 3.14
-print(check_number_type(number))
+print(f"the given number {number} is {check_number_type(number)}")
 number = "hello"
-print(check_number_type(number))
+print(f"the given number {number} is {check_number_type(number)}")
