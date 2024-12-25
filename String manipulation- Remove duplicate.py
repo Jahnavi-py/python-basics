@@ -5,4 +5,4 @@ print(unique_string)'''
 def remove_duplicates(string):
     return ''.join(dict.fromkeys(string))
 string = "aabbccddeeff"
-print(f"The string is : {string} and removed duplicates from the string is : {remove_duplicates(string)}")
+print(f"The string is : '{string}' and removed duplicates from the string is : '{remove_duplicates(string)}'")

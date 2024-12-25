@@ -6,4 +6,4 @@ def string_length(string):
     return count
 
 string = "Python is easy to read and write."
-print(f"The length of the string is: {string_length(string)}")
+print(f"The length of the string is: '{string_length(string)}'")

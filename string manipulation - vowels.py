@@ -12,4 +12,4 @@ def vowels_and_consonants(n):
     return vowels_count, consonants_count
 string = "Python is easy to read and write."
 vowels, consonants = vowels_and_consonants(string)
-print(f" For string {string} vowels count is : {vowels}, Consonants count is : {consonants}")
+print(f" For string '{string}' vowels count is : {vowels}, Consonants count is : {consonants}")
