@@ -1,0 +1,10 @@
+Hello, world!
+
+Welcome to Python programming.
+
+Python is Dynamic Programming.
+Python File Handling.
+
+a + b = b + a
+
+a - b = b - a
