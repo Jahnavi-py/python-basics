@@ -1,0 +1,10 @@
+Hello, world!
+
+Welcome to Java programming.
+
+Java is Dynamic Programming.
+Java File Handling.
+
+a + b = b + a
+
+a - b = b - a

@@ -1,0 +1,8 @@
+Here are some email addresses:
+        john.doe@example.com
+        jane_smith123@yahoo.com
+        info@company.org
+        admin@my-site.net
+        contact@website.io
+        invalid-email@nope@extra.com
+        missing-at-sign.com
