@@ -1,0 +1,3 @@
+welcome to python programming.
+hi!
+python is dynamic programming.
