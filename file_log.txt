@@ -1,0 +1,5 @@
+2024-12-28 10:30:45 INFO User logged in
+2024-12-28 10:31:05 ERROR Failed to connect to database
+2024-12-28 10:32:15 WARNING Disk space running low
+2024-12-28 10:33:25 INFO File uploaded
+2024-12-28 10:34:45 ERROR Timeout while accessing resource

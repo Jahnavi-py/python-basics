@@ -1,0 +1,12 @@
+Log Report for file_log.txt
+========================================
+Total log entries: 5
+
+Log Level Counts:
+  INFO: 2
+  ERROR: 2
+  WARNING: 1
+
+Error Details:
+  2024-12-28 10:31:05 ERROR Failed to connect to database
+  2024-12-28 10:34:45 ERROR Timeout while accessing resource
