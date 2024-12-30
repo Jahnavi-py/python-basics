@@ -1,0 +1,3 @@
+Log started...
+New log entry 1
+New log entry 2
