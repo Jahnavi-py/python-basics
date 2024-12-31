@@ -10,3 +10,9 @@ if len(set(string)) == len(string):
     print(f"The string '{string}' contains only unique characters.")
 else:
     print(f"The string '{string}' does not contain only unique characters.")
+string1 = "Flower"
+string1 = string1.replace(" ", "").lower()
+if len(set(string1)) == len(string1):
+    print(f"The string1 '{string1}' contains only unique characters.")
+else:
+    print(f"The string1 '{string1}' does not contain only unique characters.")
