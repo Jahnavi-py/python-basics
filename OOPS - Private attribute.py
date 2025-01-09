@@ -1,7 +1,5 @@
 #.Create a class Employee with private attributes and getter and setter methods.
 from cohere.utils import get_id
-
-
 class Employee:
     def __init__(self, name, ID):
         self.__name = name
