@@ -1,0 +1,24 @@
+2025-01-22 22:40:47 - INFO - Application started.
+2025-01-22 22:40:47 - DEBUG - Performing a division operation.
+2025-01-22 22:40:47 - INFO - Operation successful. Result: 5.0
+2025-01-22 22:40:47 - DEBUG - Attempting division by zero.
+2025-01-22 22:40:47 - ERROR - An error occurred: Division by zero.
+2025-01-22 22:40:47 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\jahna\PycharmProjects\PythonProject\python-basics\Mdoulemain.py", line 10, in main
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+2025-01-22 22:40:47 - WARNING - Application is closing.
+2025-01-22 22:40:52 - INFO - Application started.
+2025-01-22 22:40:52 - DEBUG - Performing a division operation.
+2025-01-22 22:40:52 - INFO - Operation successful. Result: 5.0
+2025-01-22 22:40:52 - DEBUG - Attempting division by zero.
+2025-01-22 22:40:52 - ERROR - An error occurred: Division by zero.
+2025-01-22 22:40:52 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\jahna\PycharmProjects\PythonProject\python-basics\Mdoulemain.py", line 10, in main
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+2025-01-22 22:40:52 - WARNING - Application is closing.
