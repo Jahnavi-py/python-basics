@@ -3,7 +3,7 @@ my_list = [1,2,3]
 my_dict = {'name': 'J', 'age': 25}
 def handle_exception():
     try:
-        print("Trying access to and element in the list:")
+        print("Trying to access an element in the list:")
         try:
             print(my_list[5])  # This will raise an IndexError
         except IndexError:
