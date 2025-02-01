@@ -9,7 +9,7 @@ def validate_age(age):
     else:
         print(f"The age {age} is valid.")
 try:
-    user_age = int(input("Enter your age: "))  # Taking user input for age
+    user_age = int(input("Enter your age: "))
     validate_age(user_age)
 except InvalidAgeError as e:
     print(f"Custom Exception Caught: {e}")
