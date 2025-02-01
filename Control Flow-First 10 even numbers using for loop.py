@@ -6,5 +6,6 @@ for i in range(10):
         number += 2
     else:
         print("The given number is not even")'''
+print("The first 10 even numbers are : ")
 for i in range(1, 11):
-    print("The first 10 even numbers are : ", i*2)
+    print(i *2)
