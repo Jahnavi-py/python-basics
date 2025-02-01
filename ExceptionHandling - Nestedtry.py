@@ -5,12 +5,12 @@ def handle_exception():
     try:
         print("Trying to access an element in the list:")
         try:
-            print(my_list[5])  # This will raise an IndexError
+            print(my_list[5])
         except IndexError:
             print("Error: Index out of range in the list!")
         print("\nTrying to access a key in the dictionary:")
         try:
-            print(my_dict['address'])  # This will raise a KeyError
+            print(my_dict['address'])
         except KeyError:
             print("Error: Key not found in the dictionary!")
     except Exception as e:
